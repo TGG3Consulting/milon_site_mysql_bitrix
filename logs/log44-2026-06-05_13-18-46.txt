@@ -1,0 +1,5 @@
+[2026-06-05 13:18:46] [INFO] [scheduler] SYNC START
+  - trigger: telegram
+  - filePath: /var/www/bitrix-connector/logs/log44-2026-06-05_13-18-46.txt
+[2026-06-05 13:19:57] [ERROR] [syncApartments] Sync failed read ETIMEDOUT
+[2026-06-05 13:19:57] [ERROR] [scheduler] SYNC FAILED Sync completed without summary

@@ -1,0 +1,88 @@
+[2026-06-05 13:50:44.766] [INFO] [scheduler] Scheduler initialized
+  {
+    "enabled": true,
+    "cronExpression": "0 0 * * *",
+    "isRunning": false,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }
+[2026-06-05 13:50:44.767] [INFO] [telegramBot] Telegram bot polling started
+[2026-06-05 13:50:44.819] [INFO] [server] Connector started
+[2026-06-05 13:50:45.272] [INFO] [telegramBot] Telegram bot commands registered
+  {
+    "commands": [
+      "start",
+      "status",
+      "logs",
+      "id"
+    ]
+  }
+[2026-06-05 13:51:35.463] [ERROR] [telegramBot] Telegram polling failed
+  {
+    "name": "TypeError",
+    "message": "createLogFile is not a function",
+    "stack": "TypeError: createLogFile is not a function\n    at executeSync (/var/www/bitrix-connector/src/cron/scheduler.js:84:20)\n    at handleCallbackQuery (/var/www/bitrix-connector/src/services/telegramBot.js:474:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async poll (/var/www/bitrix-connector/src/services/telegramBot.js:565:11)"
+  }
+[2026-06-05 13:51:49.418] [INFO] [scheduler] Scheduler started
+  {
+    "enabled": true,
+    "cronExpression": "0 0 * * *",
+    "isRunning": true,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }
+[2026-06-05 13:51:50.802] [WARN] [scheduler] Scheduler stopped
+  {
+    "enabled": false,
+    "cronExpression": "0 0 * * *",
+    "isRunning": true,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }
+[2026-06-05 14:02:45.399] [INFO] [scheduler] Scheduler initialized
+  {
+    "enabled": false,
+    "cronExpression": "0 0 * * *",
+    "isRunning": false,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }
+[2026-06-05 14:02:45.400] [INFO] [telegramBot] Telegram bot polling started
+[2026-06-05 14:02:45.453] [INFO] [server] Connector started
+[2026-06-05 14:02:45.918] [INFO] [telegramBot] Telegram bot commands registered
+  {
+    "commands": [
+      "start",
+      "status",
+      "logs",
+      "id"
+    ]
+  }
+[2026-06-05 14:02:58.300] [ERROR] [telegramBot] Telegram polling failed
+  {
+    "name": "TypeError",
+    "message": "createLogFile is not a function",
+    "stack": "TypeError: createLogFile is not a function\n    at executeSync (/var/www/bitrix-connector/src/cron/scheduler.js:84:20)\n    at handleCallbackQuery (/var/www/bitrix-connector/src/services/telegramBot.js:473:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async poll (/var/www/bitrix-connector/src/services/telegramBot.js:564:11)"
+  }
+[2026-06-05 14:04:16.119] [WARN] [scheduler] Scheduler stopped
+  {
+    "enabled": false,
+    "cronExpression": "0 0 * * *",
+    "isRunning": true,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }
+[2026-06-05 14:06:44.634] [INFO] [scheduler] Scheduler started
+  {
+    "enabled": true,
+    "cronExpression": "0 0 * * *",
+    "isRunning": true,
+    "lastRunAt": null,
+    "lastError": null,
+    "lastSummary": null
+  }

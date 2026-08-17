@@ -1,0 +1,55 @@
+[2026-06-28 20:00:00.019] [INFO] [scheduler] SYNC START
+{
+  "trigger": "scheduled",
+  "filePath": "/var/www/bitrix-connector/logs/log101-2026-06-28_20-00-00.txt"
+}
+[2026-06-28 20:01:01.025] [WARN] [syncApartments] Bitrix request failed
+{
+  "method": "crm.item.list",
+  "attempt": 1,
+  "maxAttempts": 4,
+  "retriable": true,
+  "code": "ECONNABORTED",
+  "message": "timeout of 60000ms exceeded"
+}
+[2026-06-28 20:02:03.037] [WARN] [syncApartments] Bitrix request failed
+{
+  "method": "crm.item.list",
+  "attempt": 2,
+  "maxAttempts": 4,
+  "retriable": true,
+  "code": "ECONNABORTED",
+  "message": "timeout of 60000ms exceeded"
+}
+[2026-06-28 20:03:07.068] [WARN] [syncApartments] Bitrix request failed
+{
+  "method": "crm.item.list",
+  "attempt": 3,
+  "maxAttempts": 4,
+  "retriable": true,
+  "code": "ECONNABORTED",
+  "message": "timeout of 60000ms exceeded"
+}
+[2026-06-28 20:04:13.080] [WARN] [syncApartments] Bitrix request failed
+{
+  "method": "crm.item.list",
+  "attempt": 4,
+  "maxAttempts": 4,
+  "retriable": true,
+  "code": "ECONNABORTED",
+  "message": "timeout of 60000ms exceeded"
+}
+[2026-06-28 20:04:13.080] [ERROR] [syncApartments] Sync failed
+{
+  "name": "AxiosError",
+  "message": "timeout of 60000ms exceeded",
+  "stack": "AxiosError: timeout of 60000ms exceeded\n    at createTimeoutError (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:3323:14)\n    at RedirectableRequest.handleTimeout (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:3787:15)\n    at RedirectableRequest.emit (node:events:519:28)\n    at Timeout._onTimeout (/var/www/bitrix-connector/node_modules/follow-redirects/index.js:233:12)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)\n    at Axios.request (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:4992:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async requestBitrix (/var/www/bitrix-connector/src/sync/syncApartments.js:82:12)\n    at async syncApartments (/var/www/bitrix-connector/src/sync/syncApartments.js:132:24)\n    at async executeSync (/var/www/bitrix-connector/src/cron/scheduler.js:94:21)",
+  "request": {
+    "url": "crm.item.list",
+    "method": "post",
+    "baseURL": "https://milonmining24.bitrix24.ru/rest/1/hozhtvw5kr9190lf/",
+    "timeout": 60000
+  }
+}
+[2026-06-28 20:04:13.081] [ERROR] [scheduler] SYNC FAILED
+  - Sync completed without summary

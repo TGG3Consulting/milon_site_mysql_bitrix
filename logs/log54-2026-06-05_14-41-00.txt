@@ -1,0 +1,41 @@
+[2026-06-05 14:41:00.025] [INFO] [scheduler] SYNC START
+{
+  "trigger": "scheduled",
+  "filePath": "/var/www/bitrix-connector/logs/log54-2026-06-05_14-41-00.txt"
+}
+[2026-06-05 14:41:18.686] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 50
+}
+[2026-06-05 14:41:19.037] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 100
+}
+[2026-06-05 14:41:19.399] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 150
+}
+[2026-06-05 14:41:19.765] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 200
+}
+[2026-06-05 14:41:20.118] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 250
+}
+[2026-06-05 14:41:20.469] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 300
+}
+[2026-06-05 14:41:20.835] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 350
+}
+[2026-06-05 14:42:20.846] [ERROR] [syncApartments] Sync failed
+{
+  "name": "TypeError",
+  "message": "Cannot read properties of undefined (reading 'warn')",
+  "stack": "TypeError: Cannot read properties of undefined (reading 'warn')\n    at requestBitrix (/var/www/bitrix-connector/src/sync/syncApartments.js:87:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async syncApartments (/var/www/bitrix-connector/src/sync/syncApartments.js:132:24)\n    at async executeSync (/var/www/bitrix-connector/src/cron/scheduler.js:94:21)"
+}
+[2026-06-05 14:42:20.846] [ERROR] [scheduler] SYNC FAILED
+  - Sync completed without summary

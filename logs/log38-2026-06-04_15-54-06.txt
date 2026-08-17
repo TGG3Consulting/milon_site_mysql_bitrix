@@ -1,0 +1,19 @@
+[2026-06-04 15:54:06] [INFO] [scheduler] SYNC START
+  - trigger: telegram
+  - filePath: /var/www/bitrix-connector/logs/log38-2026-06-04_15-54-06.txt
+[2026-06-04 15:54:07] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 50
+[2026-06-04 15:54:07] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 100
+[2026-06-04 15:54:08] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 150
+[2026-06-04 15:54:08] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 200
+[2026-06-04 15:54:08] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 250
+[2026-06-04 15:54:09] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 300
+[2026-06-04 15:54:09] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 350
+[2026-06-04 15:55:23] [ERROR] [syncApartments] Sync failed read ETIMEDOUT
+[2026-06-04 15:55:23] [ERROR] [scheduler] SYNC FAILED Sync completed without summary

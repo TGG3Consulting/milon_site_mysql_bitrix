@@ -1,0 +1,21 @@
+[2026-06-07 16:11:42.613] [INFO] [scheduler] Scheduler initialized
+{
+  "enabled": true,
+  "cronExpression": "0 0 * * *",
+  "timezone": "Asia/Yerevan",
+  "isRunning": false,
+  "lastRunAt": null,
+  "lastError": null,
+  "lastSummary": null
+}
+[2026-06-07 16:11:42.615] [INFO] [telegramBot] Telegram bot polling started
+[2026-06-07 16:11:42.671] [INFO] [server] Connector started
+[2026-06-07 16:11:43.102] [INFO] [telegramBot] Telegram bot commands registered
+{
+  "commands": [
+    "start",
+    "status",
+    "logs",
+    "id"
+  ]
+}

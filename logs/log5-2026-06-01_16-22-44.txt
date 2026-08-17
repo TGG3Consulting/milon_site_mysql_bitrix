@@ -1,0 +1,6736 @@
+[2026-06-01 16:22:44] [INFO] [scheduler] SYNC START
+  - trigger: telegram
+  - filePath: C:\Users\user\bitrix-connector\logs\log5-2026-06-01_16-22-44.txt
+[2026-06-01 16:22:44] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 50
+[2026-06-01 16:22:44] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 100
+[2026-06-01 16:22:45] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 150
+[2026-06-01 16:22:45] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 200
+[2026-06-01 16:22:46] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 250
+[2026-06-01 16:22:46] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 300
+[2026-06-01 16:22:46] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 350
+[2026-06-01 16:22:46] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 400
+[2026-06-01 16:22:47] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 450
+[2026-06-01 16:22:47] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 500
+[2026-06-01 16:22:48] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 550
+[2026-06-01 16:22:48] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 600
+[2026-06-01 16:22:49] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 650
+[2026-06-01 16:22:49] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 669
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2839
+  - title: 1 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2841
+  - title: 2 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2843
+  - title: 3 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2845
+  - title: 4 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2847
+  - title: 5 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2849
+  - title: 6+7 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2851
+  - title: 8 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2853
+  - title: 9 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2855
+  - title: 10 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2857
+  - title: 10ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2859
+  - title: 11 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2861
+  - title: 12 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2863
+  - title: 13 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2865
+  - title: 14 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2867
+  - title: 14ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2869
+  - title: 15 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2871
+  - title: 15ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2873
+  - title: 16 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2875
+  - title: 16ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2877
+  - title: 17 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2879
+  - title: 18 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2881
+  - title: 17ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2883
+  - title: 19 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2885
+  - title: 20 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2887
+  - title: 21 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2889
+  - title: 22 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2891
+  - title: 23 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2893
+  - title: 23ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2895
+  - title: 24 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2897
+  - title: 25 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2899
+  - title: 26 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2901
+  - title: 27 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2903
+  - title: 28 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 2
+  - floorId: 65
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2905
+  - title: 29 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2907
+  - title: 30 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2909
+  - title: 31 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2911
+  - title: 32 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2913
+  - title: 33 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2915
+  - title: 34 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2917
+  - title: 35 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2919
+  - title: 36 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2921
+  - title: 37 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2923
+  - title: 38 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2925
+  - title: 38ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2927
+  - title: 39 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2929
+  - title: 40 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2931
+  - title: 41 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2933
+  - title: 42 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2935
+  - title: 42ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2937
+  - title: 43ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2939
+  - title: 43 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2941
+  - title: 44 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2943
+  - title: 44ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2945
+  - title: 45 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2947
+  - title: 45ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2949
+  - title: 46 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2951
+  - title: 47 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2953
+  - title: 48 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2955
+  - title: 49 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2957
+  - title: 50 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2959
+  - title: 51 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2961
+  - title: 51ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2963
+  - title: 52 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2965
+  - title: 53 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2967
+  - title: 54 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2969
+  - title: 55 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2971
+  - title: 56 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 3
+  - floorId: 66
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2973
+  - title: 57 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2975
+  - title: 58 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2977
+  - title: 59 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2979
+  - title: 60 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2981
+  - title: 61 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2983
+  - title: 62+63 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2985
+  - title: 64 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 4
+  - floorId: 67
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2987
+  - title: 65 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2989
+  - title: 66 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 4
+  - floorId: 67
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2991
+  - title: 67 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2993
+  - title: 68 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2995
+  - title: 70ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2997
+  - title: 70 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 2999
+  - title: 69 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3001
+  - title: 71 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3003
+  - title: 72ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3005
+  - title: 72 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3007
+  - title: 73 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3009
+  - title: 74 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3011
+  - title: 73ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3013
+  - title: 75 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3015
+  - title: 76 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3017
+  - title: 77 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3019
+  - title: 78 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3021
+  - title: 79 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3023
+  - title: 79ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3025
+  - title: 80 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3027
+  - title: 81 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3029
+  - title: 82 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3031
+  - title: 83 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3033
+  - title: 84 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 4
+  - floorId: 67
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3035
+  - title: 85 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3037
+  - title: 86 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3039
+  - title: 87 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3041
+  - title: 88 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3043
+  - title: 89 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3045
+  - title: 90 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3047
+  - title: 91 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3049
+  - title: 92 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3051
+  - title: 93 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3053
+  - title: 94 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3055
+  - title: 94ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3057
+  - title: 95 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3059
+  - title: 96 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3061
+  - title: 97 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3063
+  - title: 98 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3065
+  - title: 99 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3067
+  - title: 99ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3069
+  - title: 100 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3071
+  - title: 101ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3073
+  - title: 101 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3075
+  - title: 102 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3077
+  - title: 103 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3079
+  - title: 104 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3081
+  - title: 105 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3083
+  - title: 106 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3085
+  - title: 107 Milon Tower
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3087
+  - title: 107ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3089
+  - title: 108 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3091
+  - title: 109 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3093
+  - title: 110 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3095
+  - title: 111 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3097
+  - title: 112 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 5
+  - floorId: 68
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3099
+  - title: 113 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3101
+  - title: 114 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3103
+  - title: 115 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3105
+  - title: 116 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3107
+  - title: 117 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3109
+  - title: 118 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3111
+  - title: 119 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3113
+  - title: 120 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3115
+  - title: 121 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3117
+  - title: 122 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3119
+  - title: 123 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3121
+  - title: 124 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 6
+  - floorId: 69
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3123
+  - title: 126ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3125
+  - title: 126 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3127
+  - title: 125 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3129
+  - title: 127 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3131
+  - title: 127ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3133
+  - title: 128 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3135
+  - title: 128ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3137
+  - title: 129 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3139
+  - title: 130 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3141
+  - title: 129ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3143
+  - title: 131 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3145
+  - title: 132 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3147
+  - title: 133 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3149
+  - title: 134 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3151
+  - title: 135 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3153
+  - title: 136 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3155
+  - title: 137 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3157
+  - title: 138 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3159
+  - title: 139 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3161
+  - title: 140 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 6
+  - floorId: 69
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3163
+  - title: 141 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3165
+  - title: 142 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3167
+  - title: 143 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3169
+  - title: 145 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3171
+  - title: 146+147 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3173
+  - title: 148 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3175
+  - title: 149 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3177
+  - title: 150 Milon Tower
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3179
+  - title: 150ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3181
+  - title: 151 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3183
+  - title: 152 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3185
+  - title: 153 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3187
+  - title: 154 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3189
+  - title: 154ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3191
+  - title: 155 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3193
+  - title: 155ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3195
+  - title: 156 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3197
+  - title: 156ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3199
+  - title: 157 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3201
+  - title: 157ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3203
+  - title: 158 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3205
+  - title: 159 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3207
+  - title: 160 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3209
+  - title: 161 Milon Tower
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3211
+  - title: 162 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3213
+  - title: 163 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3215
+  - title: 164 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3217
+  - title: 165 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3219
+  - title: 166 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3221
+  - title: 167 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3223
+  - title: 168 Milon Tower
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 7
+  - floorId: 70
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3225
+  - title: 169 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3227
+  - title: 170 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3229
+  - title: 171 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3231
+  - title: 172 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3233
+  - title: 173 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3235
+  - title: 174 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3237
+  - title: 175 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3239
+  - title: 176 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3241
+  - title: 177 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3243
+  - title: 178 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3247
+  - title: 179 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3249
+  - title: 180 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3251
+  - title: 181 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3253
+  - title: 182 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3255
+  - title: 182ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3257
+  - title: 183 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3259
+  - title: 183ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3261
+  - title: 184 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3263
+  - title: 184ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3265
+  - title: 185 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3267
+  - title: 185ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3269
+  - title: 186 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3271
+  - title: 187 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3273
+  - title: 188 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3275
+  - title: 189 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3277
+  - title: 190 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3279
+  - title: 191 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3281
+  - title: 191ա Milon Tower
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3283
+  - title: 192 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3285
+  - title: 193 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3287
+  - title: 194 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3289
+  - title: 195 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3291
+  - title: 196 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 8
+  - floorId: 71
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3293
+  - title: 197 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3295
+  - title: 198 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3297
+  - title: 199 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3299
+  - title: 200 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3301
+  - title: 201 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3303
+  - title: 202 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3305
+  - title: 203 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3307
+  - title: 204 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3309
+  - title: 205 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3311
+  - title: 206ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3313
+  - title: 206 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3315
+  - title: 207 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3317
+  - title: 208 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3319
+  - title: 209 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3321
+  - title: 210 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3323
+  - title: 210ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3325
+  - title: 211 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3327
+  - title: 211ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3329
+  - title: 212 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3331
+  - title: 212ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3333
+  - title: 213 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3335
+  - title: 213ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3337
+  - title: 214 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3339
+  - title: 215 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3341
+  - title: 216 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3343
+  - title: 217 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3345
+  - title: 218 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3347
+  - title: 219 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3349
+  - title: 220 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3351
+  - title: 221 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3353
+  - title: 222 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3355
+  - title: 223 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3357
+  - title: 224 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 9
+  - floorId: 72
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3359
+  - title: 225 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3361
+  - title: 226 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3363
+  - title: 227 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3365
+  - title: 228 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3367
+  - title: 229 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3369
+  - title: 230+231 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3371
+  - title: 232 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3373
+  - title: 233 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3375
+  - title: 234 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3377
+  - title: 235 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 10
+  - floorId: 73
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3379
+  - title: 236 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3381
+  - title: 237 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3383
+  - title: 238 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3385
+  - title: 238ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3387
+  - title: 239 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3389
+  - title: 239ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3391
+  - title: 240 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3393
+  - title: 240ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3395
+  - title: 241ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3397
+  - title: 241 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3399
+  - title: 242 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3401
+  - title: 243 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 10
+  - floorId: 73
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3403
+  - title: 244 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3405
+  - title: 245 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3407
+  - title: 246 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3409
+  - title: 247 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3411
+  - title: 248 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3413
+  - title: 249 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3415
+  - title: 250 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3417
+  - title: 251 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3419
+  - title: 252 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 10
+  - floorId: 73
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3421
+  - title: 253 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3423
+  - title: 254 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3425
+  - title: 255 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3427
+  - title: 256 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3429
+  - title: 257 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3431
+  - title: 258+259 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3433
+  - title: 260 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3435
+  - title: 261 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3437
+  - title: 262 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3439
+  - title: 262ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3441
+  - title: 263 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3443
+  - title: 264 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3445
+  - title: 265 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3447
+  - title: 266 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3449
+  - title: 266ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3451
+  - title: 267 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3453
+  - title: 267ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3455
+  - title: 268 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3457
+  - title: 268ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3459
+  - title: 269 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3461
+  - title: 269ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3463
+  - title: 270 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3465
+  - title: 271 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3467
+  - title: 272 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3469
+  - title: 273 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3471
+  - title: 274 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3473
+  - title: 275 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3475
+  - title: 275ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3477
+  - title: 276 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3479
+  - title: 277 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3481
+  - title: 278 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3483
+  - title: 279 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3485
+  - title: 280 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 11
+  - floorId: 74
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3487
+  - title: 281 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3489
+  - title: 282 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3491
+  - title: 283 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3493
+  - title: 284 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3495
+  - title: 285 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3497
+  - title: 286+287 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3499
+  - title: 288 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3501
+  - title: 289 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3503
+  - title: 290 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3505
+  - title: 291 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3507
+  - title: 292 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3509
+  - title: 293 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3511
+  - title: 294 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3513
+  - title: 294ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3515
+  - title: 295 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3517
+  - title: 295ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3519
+  - title: 296 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3521
+  - title: 296ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3523
+  - title: 297 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3525
+  - title: 297ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3527
+  - title: 298 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3529
+  - title: 299 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3531
+  - title: 300 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3533
+  - title: 301 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3535
+  - title: 302 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3537
+  - title: 303 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3539
+  - title: 303ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3541
+  - title: 304 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3543
+  - title: 305 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3545
+  - title: 306 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3547
+  - title: 307 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3549
+  - title: 308 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 12
+  - floorId: 75
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3551
+  - title: 309 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3553
+  - title: 310 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3555
+  - title: 311 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3557
+  - title: 312 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3559
+  - title: 313 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3561
+  - title: 314+315 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3563
+  - title: 316 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3565
+  - title: 317 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3567
+  - title: 318 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3569
+  - title: 318ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3571
+  - title: 319 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3573
+  - title: 320 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3575
+  - title: 321 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3577
+  - title: 322 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3579
+  - title: 322ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3581
+  - title: 323 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3583
+  - title: 323ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3585
+  - title: 324 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3587
+  - title: 324ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3589
+  - title: 325 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3591
+  - title: 325ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3593
+  - title: 326 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3595
+  - title: 327 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3597
+  - title: 328 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3599
+  - title: 329 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3601
+  - title: 330 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3603
+  - title: 331 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3605
+  - title: 331ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3607
+  - title: 332 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3609
+  - title: 333 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3611
+  - title: 334 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3613
+  - title: 335 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3615
+  - title: 336 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 13
+  - floorId: 76
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3617
+  - title: 337 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3619
+  - title: 338 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3621
+  - title: 339 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3623
+  - title: 340 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3625
+  - title: 341 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3627
+  - title: 342+343 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3629
+  - title: 344 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3631
+  - title: 345 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3633
+  - title: 346 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3635
+  - title: 346ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3637
+  - title: 347 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3639
+  - title: 348 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3641
+  - title: 349 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3643
+  - title: 350 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3645
+  - title: 350ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3647
+  - title: 351 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3649
+  - title: 351ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3651
+  - title: 352 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3653
+  - title: 352ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3655
+  - title: 353 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3657
+  - title: 353ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3659
+  - title: 354 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3661
+  - title: 355 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3663
+  - title: 356 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3665
+  - title: 357 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3667
+  - title: 358 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3669
+  - title: 359 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3671
+  - title: 359ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3673
+  - title: 360 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3675
+  - title: 361 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3677
+  - title: 362 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3679
+  - title: 363 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3681
+  - title: 364 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 14
+  - floorId: 77
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3683
+  - title: 365 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 15
+  - floorId: 78
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3685
+  - title: 366 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 15
+  - floorId: 78
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3687
+  - title: 367 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3689
+  - title: 368 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3691
+  - title: 369+370 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3693
+  - title: 371 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3695
+  - title: 372 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3697
+  - title: 373 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 15
+  - floorId: 78
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3699
+  - title: 374 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3701
+  - title: 375 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3703
+  - title: 376 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 15
+  - floorId: 78
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3705
+  - title: 377 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 15
+  - floorId: 78
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3709
+  - title: 379 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3711
+  - title: 380 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3713
+  - title: 381 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3715
+  - title: 382 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3717
+  - title: 383 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3719
+  - title: 384 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3721
+  - title: 384ա Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3723
+  - title: 385 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3725
+  - title: 386 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3727
+  - title: 387 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3729
+  - title: 388 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3731
+  - title: 389 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3733
+  - title: 390 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 16
+  - floorId: 79
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3735
+  - title: 391 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3737
+  - title: 392 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3739
+  - title: 393 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3741
+  - title: 394 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3743
+  - title: 395 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 2
+  - blockId: 8
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3745
+  - title: 396 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3747
+  - title: 397 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3749
+  - title: 398 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 16
+  - floorId: 79
+  - status: active
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3751
+  - title: 399 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 16
+  - floorId: 79
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3753
+  - title: 400 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 4
+  - blockId: 10
+  - floor: 16
+  - floorId: 79
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3755
+  - title: 144 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 1
+  - blockId: 7
+  - floor: 7
+  - floorId: 70
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3757
+  - title: 1 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 3
+  - floorId: 6
+  - status: pending
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3759
+  - title: 2 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3761
+  - title: 3 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3763
+  - title: 4 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3765
+  - title: 5 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 3
+  - floorId: 6
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3767
+  - title: 6 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3769
+  - title: 7 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3771
+  - title: 8 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3773
+  - title: 9 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3775
+  - title: 10 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3777
+  - title: 11 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3779
+  - title: 12 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3781
+  - title: 13 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3783
+  - title: 14 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3785
+  - title: 15 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3787
+  - title: 16 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3789
+  - title: 17 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3791
+  - title: 18 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3793
+  - title: 19 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3795
+  - title: 20 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3797
+  - title: 21 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3799
+  - title: 22 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 3
+  - floorId: 6
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3801
+  - title: 23 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 4
+  - floorId: 7
+  - status: reserved
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3803
+  - title: 24 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3805
+  - title: 25 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3807
+  - title: 26 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3809
+  - title: 27 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3811
+  - title: 28 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3813
+  - title: 29 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3815
+  - title: 30 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3817
+  - title: 31 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3819
+  - title: 32 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3821
+  - title: 33 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3823
+  - title: 34 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:49] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3825
+  - title: 35 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3827
+  - title: 36 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3829
+  - title: 37 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3831
+  - title: 38 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3833
+  - title: 39 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3835
+  - title: 40 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3837
+  - title: 41 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3839
+  - title: 42 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3841
+  - title: 43 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3843
+  - title: 44 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 4
+  - floorId: 7
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3845
+  - title: 45 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3847
+  - title: 46 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3849
+  - title: 47 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3851
+  - title: 48 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3853
+  - title: 49 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3855
+  - title: 50 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3857
+  - title: 51 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3859
+  - title: 52 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3861
+  - title: 53 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3863
+  - title: 54 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3865
+  - title: 55 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3867
+  - title: 56 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3869
+  - title: 57 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3871
+  - title: 58 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3873
+  - title: 59 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3875
+  - title: 60 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3877
+  - title: 61 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3879
+  - title: 62 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3881
+  - title: 63 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3883
+  - title: 64 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3885
+  - title: 65 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3887
+  - title: 66 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 5
+  - floorId: 8
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3889
+  - title: 67 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3891
+  - title: 68 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3893
+  - title: 69 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3895
+  - title: 70 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3897
+  - title: 71 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3899
+  - title: 72 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3901
+  - title: 73 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3903
+  - title: 74 Milon Hills
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3905
+  - title: 75 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3907
+  - title: 76 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3909
+  - title: 77 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3911
+  - title: 78 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3913
+  - title: 79 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3915
+  - title: 80 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3917
+  - title: 81 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3919
+  - title: 82 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3921
+  - title: 83 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3923
+  - title: 84 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3925
+  - title: 85 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3927
+  - title: 86 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3929
+  - title: 87 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3931
+  - title: 88 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 6
+  - floorId: 9
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3933
+  - title: 89 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3935
+  - title: 90 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3937
+  - title: 91 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3939
+  - title: 92 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3941
+  - title: 93 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3943
+  - title: 94 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3945
+  - title: 95 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3947
+  - title: 96 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3949
+  - title: 97 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3951
+  - title: 98 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3953
+  - title: 99 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3955
+  - title: 100 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3957
+  - title: 101 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3959
+  - title: 102 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3961
+  - title: 103 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3963
+  - title: 104 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3965
+  - title: 105 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3967
+  - title: 106 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3969
+  - title: 107 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3971
+  - title: 108 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3973
+  - title: 109 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 7
+  - floorId: 10
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3975
+  - title: 110 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3977
+  - title: 111 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3979
+  - title: 112 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3981
+  - title: 113 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3983
+  - title: 114 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 8
+  - floorId: 11
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3985
+  - title: 115 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3987
+  - title: 116 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3989
+  - title: 117 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3991
+  - title: 118 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3993
+  - title: 119 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3995
+  - title: 120 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3997
+  - title: 121 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 3999
+  - title: 122 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4001
+  - title: 123 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4003
+  - title: 124 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4005
+  - title: 125 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4007
+  - title: 126 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4009
+  - title: 127 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4011
+  - title: 128 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4013
+  - title: 129 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4015
+  - title: 130 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4017
+  - title: 131 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 8
+  - floorId: 11
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4019
+  - title: 132 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4021
+  - title: 133 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4023
+  - title: 134 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4025
+  - title: 135 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4027
+  - title: 136 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4029
+  - title: 137 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4031
+  - title: 138 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4033
+  - title: 139 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4035
+  - title: 140 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4037
+  - title: 141 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4039
+  - title: 142 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 9
+  - floorId: 12
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4041
+  - title: 143 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4043
+  - title: 144 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4045
+  - title: 145 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4047
+  - title: 146 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4049
+  - title: 147 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4051
+  - title: 148 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4053
+  - title: 149 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4055
+  - title: 150 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4057
+  - title: 151 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 9
+  - floorId: 12
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4059
+  - title: 152 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4061
+  - title: 153 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 9
+  - floorId: 12
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4063
+  - title: 154 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4065
+  - title: 155 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4067
+  - title: 156 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4069
+  - title: 157 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4071
+  - title: 158 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 10
+  - floorId: 13
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4073
+  - title: 159 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4075
+  - title: 160 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4077
+  - title: 161 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4079
+  - title: 162 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4081
+  - title: 163 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4083
+  - title: 164 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 10
+  - floorId: 13
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4085
+  - title: 165 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4087
+  - title: 166ա Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4089
+  - title: 167 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4091
+  - title: 168 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4093
+  - title: 169 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4095
+  - title: 170 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4097
+  - title: 171 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4099
+  - title: 172 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4101
+  - title: 173 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4103
+  - title: 174 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 10
+  - floorId: 13
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4105
+  - title: 175 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 10
+  - floorId: 13
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4107
+  - title: 176 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4109
+  - title: 177 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4111
+  - title: 178 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4113
+  - title: 179 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4115
+  - title: 180 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4117
+  - title: 181 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4119
+  - title: 182 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4121
+  - title: 183 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4123
+  - title: 184 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4125
+  - title: 185 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4127
+  - title: 186 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4129
+  - title: 187 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4131
+  - title: 188 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4133
+  - title: 189 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4135
+  - title: 190 Milon Hills
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4137
+  - title: 191 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4139
+  - title: 192 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4141
+  - title: 193 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4143
+  - title: 194 Milon Hills
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 11
+  - floorId: 14
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4145
+  - title: 195 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 11
+  - floorId: 14
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4147
+  - title: 196 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4149
+  - title: 197 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 11
+  - floorId: 14
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4151
+  - title: 198 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4153
+  - title: 199 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4155
+  - title: 200 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 1
+  - blockId: 1
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4157
+  - title: 201 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 12
+  - floorId: 15
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4159
+  - title: 202 Milon Hills
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4161
+  - title: 203 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4163
+  - title: 204 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 2
+  - blockId: 2
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4165
+  - title: 205 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4167
+  - title: 206 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4169
+  - title: 207 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4171
+  - title: 208 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 3
+  - blockId: 3
+  - floor: 12
+  - floorId: 15
+  - status: pending
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4173
+  - title: 209 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 4175
+  - title: 210 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 12
+  - floorId: 15
+  - status: sold
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 5535
+  - title: 378 Milon Tower 
+  - mysqlApartmentId: undefined
+  - buildingId: 3
+  - entrance: 3
+  - blockId: 9
+  - floor: 15
+  - floorId: 78
+  - status: active
+[2026-06-01 16:22:50] [WARN] [syncApartments] Skipped apartment
+  - bitrixId: 6877
+  - title: 211 Milon Hills 
+  - mysqlApartmentId: undefined
+  - buildingId: 1
+  - entrance: 4
+  - blockId: 4
+  - floor: 12
+  - floorId: 15
+  - status: reserved
+[2026-06-01 16:22:50] [INFO] [syncApartments] 
+ SYNC RESULT
+  - total: 669
+  - inserted: 0
+  - updated: 0
+  - unchanged: 0
+  - skipped: 669
+[2026-06-01 16:22:50] [INFO] [scheduler] 
+ FINAL SUMMARY
+  - total: 669
+  - inserted: 0
+  - updated: 0
+  - unchanged: 0
+  - skipped: 669
+[2026-06-01 16:22:50] [INFO] [scheduler] SYNC END

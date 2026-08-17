@@ -1,0 +1,3448 @@
+[2026-06-01 17:01:03] [INFO] [scheduler] SYNC START
+  - trigger: telegram
+  - filePath: C:\Users\user\bitrix-connector\logs\log9-2026-06-01_17-01-03.txt
+[2026-06-01 17:01:04] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 50
+[2026-06-01 17:01:04] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 100
+[2026-06-01 17:01:04] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 150
+[2026-06-01 17:01:04] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 200
+[2026-06-01 17:01:04] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 250
+[2026-06-01 17:01:05] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 300
+[2026-06-01 17:01:05] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 350
+[2026-06-01 17:01:05] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 400
+[2026-06-01 17:01:05] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 450
+[2026-06-01 17:01:06] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 500
+[2026-06-01 17:01:06] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 550
+[2026-06-01 17:01:06] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 600
+[2026-06-01 17:01:07] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 650
+[2026-06-01 17:01:07] [INFO] [syncApartments] Loaded apartments batch
+  - totalLoaded: 669
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2839
+  - title: 1 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 370000|AMD
+    - duplex: null
+    - mysqlApartmentId: 219
+  - mysql:
+    - mysqlId: 219
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 1
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 370000
+  - existing:
+    - id: 219
+    - buildingId: 3
+    - number: 1
+    - blockId: 7
+    - floorId: 65
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 370000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2841
+  - title: 2 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 51
+    - activePrice: 440000|AMD
+    - duplex: null
+    - mysqlApartmentId: 220
+  - mysql:
+    - mysqlId: 220
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 2
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 440000
+  - existing:
+    - id: 220
+    - buildingId: 3
+    - number: 2
+    - blockId: 7
+    - floorId: 65
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 440000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2843
+  - title: 3 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 221
+  - mysql:
+    - mysqlId: 221
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 3
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 221
+    - buildingId: 3
+    - number: 3
+    - blockId: 7
+    - floorId: 65
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 440000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 440000
+      - to: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2845
+  - title: 4 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 3
+    - squareMeter: 76
+    - activePrice: 370000|AMD
+    - duplex: null
+    - mysqlApartmentId: 222
+  - mysql:
+    - mysqlId: 222
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 4
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 370000
+  - existing:
+    - id: 222
+    - buildingId: 3
+    - number: 4
+    - blockId: 7
+    - floorId: 65
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 370000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2847
+  - title: 5 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 55
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 223
+  - mysql:
+    - mysqlId: 223
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 5
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 223
+    - buildingId: 3
+    - number: 5
+    - blockId: 7
+    - floorId: 65
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2849
+  - title: 6+7 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 2
+    - rooms: 3
+    - squareMeter: 84
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 224
+  - mysql:
+    - mysqlId: 224
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 65
+    - number: 6+7
+    - status: active
+    - squareMeter: 84
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 224
+    - buildingId: 3
+    - number: 6, 7
+    - blockId: 7
+    - floorId: 65
+    - status: active
+    - squareMeter: 84
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 6, 7
+      - to: 6+7
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2851
+  - title: 8 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 62
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 225
+  - mysql:
+    - mysqlId: 225
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 8
+    - status: active
+    - squareMeter: 62
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 225
+    - buildingId: 3
+    - number: 8
+    - blockId: 8
+    - floorId: 65
+    - status: active
+    - squareMeter: 62.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - squareMeter
+  - changes:
+    - squareMeter:
+      - from: 62.4
+      - to: 62
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2853
+  - title: 9 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 58
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 226
+  - mysql:
+    - mysqlId: 226
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 9
+    - status: active
+    - squareMeter: 58
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 226
+    - buildingId: 3
+    - number: 9
+    - blockId: 8
+    - floorId: 65
+    - status: active
+    - squareMeter: 58
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2855
+  - title: 10 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 55
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 227
+  - mysql:
+    - mysqlId: 227
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 10
+    - status: active
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 227
+    - buildingId: 3
+    - number: 10
+    - blockId: 8
+    - floorId: 65
+    - status: active
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2857
+  - title: 10ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 62
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 228
+  - mysql:
+    - mysqlId: 228
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 10ա
+    - status: active
+    - squareMeter: 62
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 228
+    - buildingId: 3
+    - number: 10 ա
+    - blockId: 8
+    - floorId: 65
+    - status: active
+    - squareMeter: 62
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 10 ա
+      - to: 10ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2859
+  - title: 11 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 63.7
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 229
+  - mysql:
+    - mysqlId: 229
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 11
+    - status: active
+    - squareMeter: 63.7
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 229
+    - buildingId: 3
+    - number: 11
+    - blockId: 8
+    - floorId: 65
+    - status: active
+    - squareMeter: 63.7
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2861
+  - title: 12 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 2
+    - rooms: 4
+    - squareMeter: 89.1
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 230
+  - mysql:
+    - mysqlId: 230
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 65
+    - number: 12
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 230
+    - buildingId: 3
+    - number: 12
+    - blockId: 8
+    - floorId: 65
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2863
+  - title: 13 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 49.1
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 231
+  - mysql:
+    - mysqlId: 231
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 13
+    - status: active
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 231
+    - buildingId: 3
+    - number: 13
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2865
+  - title: 14 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 232
+  - mysql:
+    - mysqlId: 232
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 14
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 232
+    - buildingId: 3
+    - number: 14
+    - blockId: 9
+    - floorId: 65
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2867
+  - title: 14ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 233
+  - mysql:
+    - mysqlId: 233
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 14ա
+    - status: active
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 233
+    - buildingId: 3
+    - number: 14 ա
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 14 ա
+      - to: 14ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2869
+  - title: 15 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46.6
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 234
+  - mysql:
+    - mysqlId: 234
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 15
+    - status: active
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 234
+    - buildingId: 3
+    - number: 15
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2871
+  - title: 15ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 51.5
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 235
+  - mysql:
+    - mysqlId: 235
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 15ա
+    - status: active
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 235
+    - buildingId: 3
+    - number: 15 ա
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 15 ա
+      - to: 15ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2873
+  - title: 16 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 51.5
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 236
+  - mysql:
+    - mysqlId: 236
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 16
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 236
+    - buildingId: 3
+    - number: 16
+    - blockId: 9
+    - floorId: 65
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2875
+  - title: 16ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46.6
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 237
+  - mysql:
+    - mysqlId: 237
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 16ա
+    - status: active
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 237
+    - buildingId: 3
+    - number: 16 ա
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 16 ա
+      - to: 16ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2877
+  - title: 17 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 380000|AMD
+    - duplex: null
+    - mysqlApartmentId: 238
+  - mysql:
+    - mysqlId: 238
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 17
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 380000
+  - existing:
+    - id: 238
+    - buildingId: 3
+    - number: 17
+    - blockId: 9
+    - floorId: 65
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 380000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2879
+  - title: 18 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 380000|AMD
+    - duplex: null
+    - mysqlApartmentId: 239
+  - mysql:
+    - mysqlId: 239
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 18
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 380000
+  - existing:
+    - id: 239
+    - buildingId: 3
+    - number: 18
+    - blockId: 9
+    - floorId: 65
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 380000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2881
+  - title: 17ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 49.1
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 240
+  - mysql:
+    - mysqlId: 240
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 17ա
+    - status: sold
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 240
+    - buildingId: 3
+    - number: 17 ա
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - status
+  - changes:
+    - number:
+      - from: 17 ա
+      - to: 17ա
+    - status:
+      - from: active
+      - to: sold
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2883
+  - title: 19 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 69.2
+    - activePrice: 440000|AMD
+    - duplex: null
+    - mysqlApartmentId: 241
+  - mysql:
+    - mysqlId: 241
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 65
+    - number: 19
+    - status: active
+    - squareMeter: 69.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 440000
+  - existing:
+    - id: 241
+    - buildingId: 3
+    - number: 19
+    - blockId: 9
+    - floorId: 65
+    - status: active
+    - squareMeter: 69.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 440000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2885
+  - title: 20 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 4
+    - squareMeter: 89.1
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 242
+  - mysql:
+    - mysqlId: 242
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 20
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 242
+    - buildingId: 3
+    - number: 20
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2887
+  - title: 21 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 63.7
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 243
+  - mysql:
+    - mysqlId: 243
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 21
+    - status: active
+    - squareMeter: 63.7
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 243
+    - buildingId: 3
+    - number: 21
+    - blockId: 10
+    - floorId: 65
+    - status: active
+    - squareMeter: 63.7
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2889
+  - title: 22 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 3
+    - squareMeter: 63
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 244
+  - mysql:
+    - mysqlId: 244
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 22
+    - status: sold
+    - squareMeter: 63
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 244
+    - buildingId: 3
+    - number: 22
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 63
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2891
+  - title: 23 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 51
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 245
+  - mysql:
+    - mysqlId: 245
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 23
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 245
+    - buildingId: 3
+    - number: 23
+    - blockId: 10
+    - floorId: 65
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2893
+  - title: 23ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 54
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 246
+  - mysql:
+    - mysqlId: 246
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 23ա
+    - status: active
+    - squareMeter: 54
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 246
+    - buildingId: 3
+    - number: 23 ա
+    - blockId: 10
+    - floorId: 65
+    - status: active
+    - squareMeter: 54
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 23 ա
+      - to: 23ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2895
+  - title: 24 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 370000|AMD
+    - duplex: null
+    - mysqlApartmentId: 247
+  - mysql:
+    - mysqlId: 247
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 24
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 370000
+  - existing:
+    - id: 247
+    - buildingId: 3
+    - number: 24
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 370000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2897
+  - title: 25 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 65.5
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 248
+  - mysql:
+    - mysqlId: 248
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 25
+    - status: sold
+    - squareMeter: 65.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 248
+    - buildingId: 3
+    - number: 25
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 65.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2899
+  - title: 26 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 370000|AMD
+    - duplex: null
+    - mysqlApartmentId: 249
+  - mysql:
+    - mysqlId: 249
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 26
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 370000
+  - existing:
+    - id: 249
+    - buildingId: 3
+    - number: 26
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 370000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2901
+  - title: 27 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 56.9
+    - activePrice: 369000|AMD
+    - duplex: null
+    - mysqlApartmentId: 250
+  - mysql:
+    - mysqlId: 250
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 27
+    - status: sold
+    - squareMeter: 56.9
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 369000
+  - existing:
+    - id: 250
+    - buildingId: 3
+    - number: 27
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 56.9
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 369000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2903
+  - title: 28 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 2
+    - rooms: 2
+    - squareMeter: 40.2
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 251
+  - mysql:
+    - mysqlId: 251
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 65
+    - number: 28
+    - status: sold
+    - squareMeter: 40.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 251
+    - buildingId: 3
+    - number: 28
+    - blockId: 10
+    - floorId: 65
+    - status: sold
+    - squareMeter: 40.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2905
+  - title: 29 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 252
+  - mysql:
+    - mysqlId: 252
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 29
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 252
+    - buildingId: 3
+    - number: 29
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2907
+  - title: 30 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 51
+    - activePrice: 440000|AMD
+    - duplex: null
+    - mysqlApartmentId: 253
+  - mysql:
+    - mysqlId: 253
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 30
+    - status: sold
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 440000
+  - existing:
+    - id: 253
+    - buildingId: 3
+    - number: 30
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 440000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2909
+  - title: 31 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 254
+  - mysql:
+    - mysqlId: 254
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 31
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 254
+    - buildingId: 3
+    - number: 31
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2911
+  - title: 32 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 3
+    - squareMeter: 76
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 255
+  - mysql:
+    - mysqlId: 255
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 32
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 255
+    - buildingId: 3
+    - number: 32
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2913
+  - title: 33 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 55
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 256
+  - mysql:
+    - mysqlId: 256
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 33
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 256
+    - buildingId: 3
+    - number: 33
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2915
+  - title: 34 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 1
+    - squareMeter: 35.1
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 257
+  - mysql:
+    - mysqlId: 257
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 34
+    - status: sold
+    - squareMeter: 35.1
+    - rooms: 1
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 257
+    - buildingId: 3
+    - number: 34
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 35.1
+    - rooms: 1
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2917
+  - title: 35 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 62.8
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 258
+  - mysql:
+    - mysqlId: 258
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 66
+    - number: 35
+    - status: sold
+    - squareMeter: 62.8
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 258
+    - buildingId: 3
+    - number: 35
+    - blockId: 7
+    - floorId: 66
+    - status: sold
+    - squareMeter: 62.8
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2919
+  - title: 36 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 62.4
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 259
+  - mysql:
+    - mysqlId: 259
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 36
+    - status: active
+    - squareMeter: 62.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 259
+    - buildingId: 3
+    - number: 36
+    - blockId: 8
+    - floorId: 66
+    - status: active
+    - squareMeter: 62.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2921
+  - title: 37 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 58
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 260
+  - mysql:
+    - mysqlId: 260
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 37
+    - status: active
+    - squareMeter: 58
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 260
+    - buildingId: 3
+    - number: 37
+    - blockId: 8
+    - floorId: 66
+    - status: active
+    - squareMeter: 58
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2923
+  - title: 38 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 55
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 261
+  - mysql:
+    - mysqlId: 261
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 38
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 261
+    - buildingId: 3
+    - number: 38
+    - blockId: 8
+    - floorId: 66
+    - status: active
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - status
+  - changes:
+    - status:
+      - from: active
+      - to: sold
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2925
+  - title: 38ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 62
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 262
+  - mysql:
+    - mysqlId: 262
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 38ա
+    - status: active
+    - squareMeter: 62
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 262
+    - buildingId: 3
+    - number: 38 ա
+    - blockId: 8
+    - floorId: 66
+    - status: active
+    - squareMeter: 62
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 38 ա
+      - to: 38ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2927
+  - title: 39 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 63.4
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 263
+  - mysql:
+    - mysqlId: 263
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 39
+    - status: active
+    - squareMeter: 63.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 263
+    - buildingId: 3
+    - number: 39
+    - blockId: 8
+    - floorId: 66
+    - status: active
+    - squareMeter: 63.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2929
+  - title: 40 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 3
+    - rooms: 4
+    - squareMeter: 89.1
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 264
+  - mysql:
+    - mysqlId: 264
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 66
+    - number: 40
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 264
+    - buildingId: 3
+    - number: 40
+    - blockId: 8
+    - floorId: 66
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2931
+  - title: 41 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 49.1
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 265
+  - mysql:
+    - mysqlId: 265
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 41
+    - status: sold
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 265
+    - buildingId: 3
+    - number: 41
+    - blockId: 9
+    - floorId: 66
+    - status: active
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - status
+  - changes:
+    - status:
+      - from: active
+      - to: sold
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2933
+  - title: 42 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_U2R6A8
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 266
+  - mysql:
+    - mysqlId: 266
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 42
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 266
+    - buildingId: 3
+    - number: 42
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2935
+  - title: 42ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 267
+  - mysql:
+    - mysqlId: 267
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 42ա
+    - status: active
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 267
+    - buildingId: 3
+    - number: 42 ա
+    - blockId: 9
+    - floorId: 66
+    - status: active
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+  - changes:
+    - number:
+      - from: 42 ա
+      - to: 42ա
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2937
+  - title: 43ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46.6
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 268
+  - mysql:
+    - mysqlId: 268
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 43ա
+    - status: active
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 268
+    - buildingId: 3
+    - number: 43
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - status
+  - changes:
+    - number:
+      - from: 43
+      - to: 43ա
+    - status:
+      - from: sold
+      - to: active
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2939
+  - title: 43 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 51.5
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 269
+  - mysql:
+    - mysqlId: 269
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 43
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 269
+    - buildingId: 3
+    - number: 43 ա
+    - blockId: 9
+    - floorId: 66
+    - status: active
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - status
+    - activePrice
+  - changes:
+    - number:
+      - from: 43 ա
+      - to: 43
+    - status:
+      - from: active
+      - to: sold
+    - activePrice:
+      - from: 430000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2941
+  - title: 44 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 51.5
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 270
+  - mysql:
+    - mysqlId: 270
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 44
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 270
+    - buildingId: 3
+    - number: 44
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2943
+  - title: 44ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46.6
+    - activePrice: 399000|AMD
+    - duplex: null
+    - mysqlApartmentId: 271
+  - mysql:
+    - mysqlId: 271
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 44ա
+    - status: sold
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 399000
+  - existing:
+    - id: 271
+    - buildingId: 3
+    - number: 44 ա
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - number
+    - activePrice
+  - changes:
+    - number:
+      - from: 44 ա
+      - to: 44ա
+    - activePrice:
+      - from: 420000
+      - to: 399000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2945
+  - title: 45 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 272
+  - mysql:
+    - mysqlId: 272
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 45
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 272
+    - buildingId: 3
+    - number: 45
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2947
+  - title: 45ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 273
+  - mysql:
+    - mysqlId: 273
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 45ա
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 273
+    - buildingId: 3
+    - number: 45 ա
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - activePrice
+  - changes:
+    - number:
+      - from: 45 ա
+      - to: 45ա
+    - activePrice:
+      - from: 430000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2949
+  - title: 46 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 49.1
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 274
+  - mysql:
+    - mysqlId: 274
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 46
+    - status: sold
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 274
+    - buildingId: 3
+    - number: 46
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2951
+  - title: 47 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 69.2
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 275
+  - mysql:
+    - mysqlId: 275
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 66
+    - number: 47
+    - status: sold
+    - squareMeter: 69.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 275
+    - buildingId: 3
+    - number: 47
+    - blockId: 9
+    - floorId: 66
+    - status: sold
+    - squareMeter: 69.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2953
+  - title: 48 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 4
+    - squareMeter: 89.1
+    - activePrice: 380000|AMD
+    - duplex: null
+    - mysqlApartmentId: 276
+  - mysql:
+    - mysqlId: 276
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 48
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 380000
+  - existing:
+    - id: 276
+    - buildingId: 3
+    - number: 48
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 380000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2955
+  - title: 49 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 63.4
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 277
+  - mysql:
+    - mysqlId: 277
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 49
+    - status: active
+    - squareMeter: 63.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 277
+    - buildingId: 3
+    - number: 49
+    - blockId: 10
+    - floorId: 66
+    - status: active
+    - squareMeter: 63.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2957
+  - title: 50 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_EXVT4Z
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 3
+    - squareMeter: 63
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 278
+  - mysql:
+    - mysqlId: 278
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 50
+    - status: sold
+    - squareMeter: 63
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 278
+    - buildingId: 3
+    - number: 50
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 63
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2959
+  - title: 51 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 51
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 279
+  - mysql:
+    - mysqlId: 279
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 51
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 279
+    - buildingId: 3
+    - number: 51
+    - blockId: 10
+    - floorId: 66
+    - status: active
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2961
+  - title: 51ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 54
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 280
+  - mysql:
+    - mysqlId: 280
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 51ա
+    - status: active
+    - squareMeter: 54
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 280
+    - buildingId: 3
+    - number: 51ա
+    - blockId: 10
+    - floorId: 66
+    - status: active
+    - squareMeter: 54
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2963
+  - title: 52 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 66.6
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 281
+  - mysql:
+    - mysqlId: 281
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 52
+    - status: active
+    - squareMeter: 66.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 281
+    - buildingId: 3
+    - number: 52
+    - blockId: 10
+    - floorId: 66
+    - status: active
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - squareMeter
+  - changes:
+    - squareMeter:
+      - from: 56
+      - to: 66.6
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2965
+  - title: 53 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 65.5
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 282
+  - mysql:
+    - mysqlId: 282
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 53
+    - status: sold
+    - squareMeter: 65.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 282
+    - buildingId: 3
+    - number: 53
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 65.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 430000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2967
+  - title: 54 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 386000|AMD
+    - duplex: null
+    - mysqlApartmentId: 283
+  - mysql:
+    - mysqlId: 283
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 54
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 386000
+  - existing:
+    - id: 283
+    - buildingId: 3
+    - number: 54
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 386000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2969
+  - title: 55 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 56.9
+    - activePrice: 386000|AMD
+    - duplex: null
+    - mysqlApartmentId: 284
+  - mysql:
+    - mysqlId: 284
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 55
+    - status: sold
+    - squareMeter: 56.9
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 386000
+  - existing:
+    - id: 284
+    - buildingId: 3
+    - number: 55
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 56.9
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 386000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2971
+  - title: 56 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1387
+    - floor: 3
+    - rooms: 2
+    - squareMeter: 40.2
+    - activePrice: 381400|AMD
+    - duplex: null
+    - mysqlApartmentId: 285
+  - mysql:
+    - mysqlId: 285
+    - buildingId: 3
+    - blockId: 10
+    - floorId: 66
+    - number: 56
+    - status: sold
+    - squareMeter: 40.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 381400
+  - existing:
+    - id: 285
+    - buildingId: 3
+    - number: 56
+    - blockId: 10
+    - floorId: 66
+    - status: sold
+    - squareMeter: 40.2
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 381400
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2973
+  - title: 57 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 286
+  - mysql:
+    - mysqlId: 286
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 57
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 286
+    - buildingId: 3
+    - number: 57
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2975
+  - title: 58 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 51
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 287
+  - mysql:
+    - mysqlId: 287
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 58
+    - status: sold
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 287
+    - buildingId: 3
+    - number: 58
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 51
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2977
+  - title: 59 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 288
+  - mysql:
+    - mysqlId: 288
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 59
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 288
+    - buildingId: 3
+    - number: 59
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2979
+  - title: 60 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 3
+    - squareMeter: 76
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 289
+  - mysql:
+    - mysqlId: 289
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 60
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 289
+    - buildingId: 3
+    - number: 60
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 76
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2981
+  - title: 61 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 55
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 290
+  - mysql:
+    - mysqlId: 290
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 61
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 290
+    - buildingId: 3
+    - number: 61
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 55
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2983
+  - title: 62+63 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1381
+    - floor: 4
+    - rooms: 3
+    - squareMeter: 84
+    - activePrice: 410000|AMD
+    - duplex: null
+    - mysqlApartmentId: 291
+  - mysql:
+    - mysqlId: 291
+    - buildingId: 3
+    - blockId: 7
+    - floorId: 67
+    - number: 62+63
+    - status: sold
+    - squareMeter: 84
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 410000
+  - existing:
+    - id: 291
+    - buildingId: 3
+    - number: 62, 63
+    - blockId: 7
+    - floorId: 67
+    - status: sold
+    - squareMeter: 84
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 440000
+  - changedFields:
+    - number
+    - activePrice
+  - changes:
+    - number:
+      - from: 62, 63
+      - to: 62+63
+    - activePrice:
+      - from: 440000
+      - to: 410000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2985
+  - title: 64 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:PREPARATION
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 62.4
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 292
+  - mysql:
+    - mysqlId: 292
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 67
+    - number: 64
+    - status: pending
+    - squareMeter: 62.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 292
+    - buildingId: 3
+    - number: 64
+    - blockId: 8
+    - floorId: 67
+    - status: active
+    - squareMeter: 62.4
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - status
+  - changes:
+    - status:
+      - from: active
+      - to: pending
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2987
+  - title: 65 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 4
+    - rooms: 3
+    - squareMeter: 87.6
+    - activePrice: 350000|AMD
+    - duplex: null
+    - mysqlApartmentId: 293
+  - mysql:
+    - mysqlId: 293
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 67
+    - number: 65
+    - status: sold
+    - squareMeter: 87.6
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 350000
+  - existing:
+    - id: 293
+    - buildingId: 3
+    - number: 65
+    - blockId: 8
+    - floorId: 67
+    - status: sold
+    - squareMeter: 87.6
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 350000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 2989
+  - title: 66 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:NEW
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 4
+    - rooms: 3
+    - squareMeter: 96.1
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 294
+  - mysql:
+    - mysqlId: 294
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 67
+    - number: 66
+    - status: active
+    - squareMeter: 96.1
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 294
+    - buildingId: 3
+    - number: 66
+    - blockId: 8
+    - floorId: 67
+    - status: active
+    - squareMeter: 96.1
+    - rooms: 3
+    - duplex: 0
+    - activePrice: 430000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2991
+  - title: 67 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 63.1
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 295
+  - mysql:
+    - mysqlId: 295
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 67
+    - number: 67
+    - status: sold
+    - squareMeter: 63.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 295
+    - buildingId: 3
+    - number: 67
+    - blockId: 8
+    - floorId: 67
+    - status: sold
+    - squareMeter: 63.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2993
+  - title: 68 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1383
+    - floor: 4
+    - rooms: 4
+    - squareMeter: 89.1
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 296
+  - mysql:
+    - mysqlId: 296
+    - buildingId: 3
+    - blockId: 8
+    - floorId: 67
+    - number: 68
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 296
+    - buildingId: 3
+    - number: 68
+    - blockId: 8
+    - floorId: 67
+    - status: sold
+    - squareMeter: 89.1
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2995
+  - title: 70ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:PREPARATION
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 49.1
+    - activePrice: 430000|AMD
+    - duplex: null
+    - mysqlApartmentId: 297
+  - mysql:
+    - mysqlId: 297
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 70ա
+    - status: pending
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - existing:
+    - id: 297
+    - buildingId: 3
+    - number: 69
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 49.1
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - status
+  - changes:
+    - number:
+      - from: 69
+      - to: 70ա
+    - status:
+      - from: sold
+      - to: pending
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2997
+  - title: 70 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 56
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 298
+  - mysql:
+    - mysqlId: 298
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 70
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 298
+    - buildingId: 3
+    - number: 70
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 56
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 2999
+  - title: 69 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 425000|AMD
+    - duplex: null
+    - mysqlApartmentId: 299
+  - mysql:
+    - mysqlId: 299
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 69
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 425000
+  - existing:
+    - id: 299
+    - buildingId: 3
+    - number: 70 ա
+    - blockId: 9
+    - floorId: 67
+    - status: active
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - status
+    - activePrice
+  - changes:
+    - number:
+      - from: 70 ա
+      - to: 69
+    - status:
+      - from: active
+      - to: sold
+    - activePrice:
+      - from: 430000
+      - to: 425000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 3001
+  - title: 71 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 4
+    - squareMeter: 102.6
+    - activePrice: 390000|AMD
+    - duplex: null
+    - mysqlApartmentId: 300
+  - mysql:
+    - mysqlId: 300
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 71
+    - status: sold
+    - squareMeter: 102.6
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 390000
+  - existing:
+    - id: 300
+    - buildingId: 3
+    - number: 71
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 102.6
+    - rooms: 4
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 390000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 3003
+  - title: 72ա Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 51.5
+    - activePrice: 400000|AMD
+    - duplex: null
+    - mysqlApartmentId: 301
+  - mysql:
+    - mysqlId: 301
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 72ա
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 400000
+  - existing:
+    - id: 301
+    - buildingId: 3
+    - number: 72 ա
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 51.5
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 430000
+  - changedFields:
+    - number
+    - activePrice
+  - changes:
+    - number:
+      - from: 72 ա
+      - to: 72ա
+    - activePrice:
+      - from: 430000
+      - to: 400000
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment updated
+  - bitrixId: 3005
+  - title: 72 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 46.6
+    - activePrice: 394850|AMD
+    - duplex: null
+    - mysqlApartmentId: 302
+  - mysql:
+    - mysqlId: 302
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 72
+    - status: sold
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 394850
+  - existing:
+    - id: 302
+    - buildingId: 3
+    - number: 72
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 46.6
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - changedFields:
+    - activePrice
+  - changes:
+    - activePrice:
+      - from: 420000
+      - to: 394850
+[2026-06-01 17:01:07] [INFO] [syncApartments] Apartment unchanged
+  - bitrixId: 3007
+  - title: 73 Milon Tower 
+  - bitrix:
+    - stageId: DT1038_23:UC_N1D302
+    - complexId: 1379
+    - entranceId: 1385
+    - floor: 4
+    - rooms: 2
+    - squareMeter: 46
+    - activePrice: 420000|AMD
+    - duplex: null
+    - mysqlApartmentId: 303
+  - mysql:
+    - mysqlId: 303
+    - buildingId: 3
+    - blockId: 9
+    - floorId: 67
+    - number: 73
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+  - existing:
+    - id: 303
+    - buildingId: 3
+    - number: 73
+    - blockId: 9
+    - floorId: 67
+    - status: sold
+    - squareMeter: 46
+    - rooms: 2
+    - duplex: 0
+    - activePrice: 420000
+[2026-06-01 17:01:07] [ERROR] [syncApartments] Sync failed Duplicate entry '3-74' for key 'apartments.apartments_building_id_number_unique'
+[2026-06-01 17:01:07] [ERROR] [scheduler] SYNC FAILED Sync completed without summary

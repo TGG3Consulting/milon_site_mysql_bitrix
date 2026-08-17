@@ -1,0 +1,52 @@
+[2026-06-05 14:34:08.423] [INFO] [scheduler] SYNC START
+{
+  "trigger": "telegram",
+  "filePath": "/var/www/bitrix-connector/logs/log51-2026-06-05_14-34-08.txt"
+}
+[2026-06-05 14:34:09.786] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 50
+}
+[2026-06-05 14:34:10.318] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 100
+}
+[2026-06-05 14:34:10.696] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 150
+}
+[2026-06-05 14:34:11.074] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 200
+}
+[2026-06-05 14:34:11.453] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 250
+}
+[2026-06-05 14:34:11.836] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 300
+}
+[2026-06-05 14:34:12.271] [INFO] [syncApartments] Loaded apartments batch
+{
+  "totalLoaded": 350
+}
+[2026-06-05 14:35:23.741] [ERROR] [syncApartments] Sync failed
+{
+  "name": "Error",
+  "message": "read ETIMEDOUT",
+  "stack": "Error: read ETIMEDOUT\n    at AxiosError.from (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:1268:24)\n    at RedirectableRequest.handleRequestError (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:3733:25)\n    at RedirectableRequest.emit (node:events:519:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (/var/www/bitrix-connector/node_modules/axios/dist/node/axios.cjs:4992:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async syncApartments (/var/www/bitrix-connector/src/sync/syncApartments.js:80:24)\n    at async executeSync (/var/www/bitrix-connector/src/cron/scheduler.js:93:21)\n    at async handleCallbackQuery (/var/www/bitrix-connector/src/services/telegramBot.js:474:20)\n    at async poll (/var/www/bitrix-connector/src/services/telegramBot.js:565:11)",
+  "cause": {
+    "name": "Error",
+    "message": "read ETIMEDOUT",
+    "stack": "Error: read ETIMEDOUT\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:216:20)"
+  },
+  "request": {
+    "url": "crm.item.list",
+    "method": "post",
+    "baseURL": "https://milonmining24.bitrix24.ru/rest/1/hozhtvw5kr9190lf/",
+    "timeout": 0
+  }
+}
+[2026-06-05 14:35:23.741] [ERROR] [scheduler] SYNC FAILED
+  - Sync completed without summary
