@@ -25,7 +25,10 @@ async function saveApartment(apartment) {
               square_meter,
               rooms,
               duplex,
-              active_price
+              active_price,
+              has_terrace,
+              terrace_area,
+              total_price
        FROM apartments
        WHERE id = ?`,
       [
@@ -43,7 +46,10 @@ async function saveApartment(apartment) {
               square_meter,
               rooms,
               duplex,
-              active_price
+              active_price,
+              has_terrace,
+              terrace_area,
+              total_price
        FROM apartments
        WHERE building_id = ?
          AND number = ?`,
@@ -75,6 +81,9 @@ async function saveApartment(apartment) {
       rooms: Number(existing.rooms),
       duplex: Number(existing.duplex),
       activePrice: Number(existing.active_price),
+      hasTerrace: Number(existing.has_terrace),
+      terraceArea: existing.terrace_area === null ? null : Number(existing.terrace_area),
+      totalPrice: existing.total_price === null ? null : Number(existing.total_price),
     };
     const changes = {};
 
@@ -141,6 +150,27 @@ async function saveApartment(apartment) {
       };
     }
 
+    if (normalizedExisting.hasTerrace !== apartment.hasTerrace) {
+      changes.hasTerrace = {
+        from: normalizedExisting.hasTerrace,
+        to: apartment.hasTerrace,
+      };
+    }
+
+    if (normalizedExisting.terraceArea !== apartment.terraceArea) {
+      changes.terraceArea = {
+        from: normalizedExisting.terraceArea,
+        to: apartment.terraceArea,
+      };
+    }
+
+    if (normalizedExisting.totalPrice !== apartment.totalPrice) {
+      changes.totalPrice = {
+        from: normalizedExisting.totalPrice,
+        to: apartment.totalPrice,
+      };
+    }
+
     const hasChanges = Object.keys(changes).length > 0;
 
     if (!hasChanges) {
@@ -195,6 +225,9 @@ async function saveApartment(apartment) {
            rooms = ?,
            duplex = ?,
            active_price = ?,
+           has_terrace = ?,
+           terrace_area = ?,
+           total_price = ?,
            updated_at = NOW()
        WHERE id = ?`,
       [
@@ -207,6 +240,9 @@ async function saveApartment(apartment) {
         apartment.rooms,
         apartment.duplex,
         apartment.activePrice,
+        apartment.hasTerrace,
+        apartment.terraceArea,
+        apartment.totalPrice,
         existing.id,
       ]
     );
@@ -229,9 +265,12 @@ async function saveApartment(apartment) {
        rooms,
        duplex,
        active_price,
+       has_terrace,
+       terrace_area,
+       total_price,
        created_at,
        updated_at
-     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, NOW(), NOW())`,
+     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NOW(), NOW())`,
     [
       apartment.buildingId,
       apartment.blockId,
@@ -242,6 +281,9 @@ async function saveApartment(apartment) {
       apartment.rooms,
       apartment.duplex,
       apartment.activePrice,
+      apartment.hasTerrace,
+      apartment.terraceArea,
+      apartment.totalPrice,
     ]
   );
 

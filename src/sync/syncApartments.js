@@ -12,6 +12,11 @@ const {
 const { createLogger } = require("../utils/logger");
 
 const MYSQL_APARTMENT_ID_FIELD = "ufCrm11_1776278251224";
+// Տեռասի առկայություն: an enum field, 1551 means there is a terrace, 1549 none
+const TERRACE_FLAG_FIELD = "ufCrm11_1781854445";
+const TERRACE_PRESENT_VALUE = "1551";
+// Տեռասի մակերես (մ²)
+const TERRACE_AREA_FIELD = "ufCrm11_1776078644";
 const BITRIX_REQUEST_RETRIES = Number(process.env.BITRIX_REQUEST_RETRIES || 3);
 const BITRIX_RETRY_DELAY_MS = Number(process.env.BITRIX_RETRY_DELAY_MS || 2000);
 const MYSQL_APARTMENT_ID_FIELD_ALIASES = [
@@ -117,6 +122,9 @@ function buildLogPayload(item, apartment) {
       squareMeter: item.ufCrm11_1776077273,
       activePrice: item.ufCrm11_1776093169,
       duplex: item.ufCrm11_1779547935718,
+      terraceFlag: item[TERRACE_FLAG_FIELD],
+      terraceArea: item[TERRACE_AREA_FIELD],
+      opportunity: item.opportunity,
       mysqlApartmentId: getMysqlApartmentIdValue(item),
     },
     mysql: apartment,
@@ -144,6 +152,8 @@ async function syncApartments(logger = createLogger("syncApartments")) {
           "ufCrm11_1776077273",
           "ufCrm11_1776093169",
           "ufCrm11_1779547935718",
+          TERRACE_FLAG_FIELD,
+          TERRACE_AREA_FIELD,
           ...MYSQL_APARTMENT_ID_FIELD_ALIASES,
         ],
       }, logger);
@@ -178,6 +188,20 @@ async function syncApartments(logger = createLogger("syncApartments")) {
       const squareMeter = Number(item.ufCrm11_1776077273);
       const activePrice = parseMoneyValue(item.ufCrm11_1776093169);
       const duplex = item.ufCrm11_1779547935718 ? 1 : 0;
+      const hasTerrace = String(item[TERRACE_FLAG_FIELD]) === TERRACE_PRESENT_VALUE ? 1 : 0;
+      const terraceAreaValue = Number(item[TERRACE_AREA_FIELD]);
+      const terraceArea = hasTerrace && Number.isFinite(terraceAreaValue) && terraceAreaValue > 0
+        ? terraceAreaValue
+        : null;
+      // The CRM states the whole price of the apartment in `opportunity`, and it
+      // already includes the terrace. The old square_meter * active_price never
+      // did, which is why a terraced apartment used to be quoted short. The
+      // multiplication stays only as a fallback so a record still syncs if the
+      // field is ever cleared.
+      const opportunity = parseMoneyValue(item.opportunity);
+      const totalPrice = Number.isFinite(opportunity) && opportunity > 0
+        ? opportunity
+        : Math.round(squareMeter * activePrice);
       const mysqlApartmentIdValue = getMysqlApartmentIdValue(item);
       const mysqlApartmentId = parsePositiveInteger(mysqlApartmentIdValue);
 
@@ -220,6 +244,9 @@ async function syncApartments(logger = createLogger("syncApartments")) {
         rooms,
         duplex,
         activePrice,
+        hasTerrace,
+        terraceArea,
+        totalPrice,
       };
       const result = await saveApartment(apartment);
       const logPayload = buildLogPayload(item, apartment);
