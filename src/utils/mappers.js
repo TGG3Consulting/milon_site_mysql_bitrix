@@ -23,6 +23,12 @@ const entranceMap = {
 
 const statusMap = {
   "DT1038_23:NEW": "active",
+  // Both of these were missing, so every record sitting on them was skipped
+  // outright and kept whatever status it last had in MySQL -- which left 29
+  // apartments advertised as available while Bitrix said they were not for
+  // sale. pending is the right landing place: the client API filters it out.
+  "DT1038_23:UC_NRY6Q2": "pending",
+  "DT1038_23:UC_PDC01H": "pending",
   "DT1038_23:UC_ERVL1W": "pending",
   "DT1038_23:PREPARATION": "pending",
   "DT1038_23:CLIENT": "reserved",
